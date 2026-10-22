@@ -1,20 +1,10 @@
+# AI Python Internship Tasks
 
-# Python Internship - Day 1
+This repository contains my daily Python internship pre-warmup tasks.
 
-## About
-This repository contains my Python internship pre-warmup tasks.
-
-## Tasks Completed
-- Python environment setup
-- Git and GitHub basics
-- Hello World program
-
-## How to Run
-Make sure Python is installed, then run:
-
-```bash
-python hello_world.py
-```
+## Tasks
+- Day 1: Python environment, Git, variables, strings, control flow and functions.
+- Day 2: Upcoming tasks.
 
 ## Technologies
 - Python
