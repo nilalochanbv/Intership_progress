@@ -1,0 +1,29 @@
+{
+    "total_students": 5,
+    "average_marks": 87.6,
+    "highest_marks": 95,
+    "lowest_marks": 78,
+    "topper": "Deepak",
+    "students": [
+        {
+            "name": "Arun",
+            "marks": 85
+        },
+        {
+            "name": "Bala",
+            "marks": 92
+        },
+        {
+            "name": "Chitra",
+            "marks": 78
+        },
+        {
+            "name": "Deepak",
+            "marks": 95
+        },
+        {
+            "name": "Esha",
+            "marks": 88
+        }
+    ]
+}
